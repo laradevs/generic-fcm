@@ -6,16 +6,12 @@ Currently this app server library only supports sending Messages/Notifications v
 See original Firebase docs: https://firebase.google.com/docs/
 
 #Setup
-Install via Composer:
-```
-composer require laradevs/generic-fcm
-```
 
-Or add this to your composer.json and run "composer update":
+Add this to your composer.json and run "composer update":
 
 ```
 "require": {
-    "laradevs/generic-fcm": "1.0"
+    "laradevs/generic-fcm": "^1.0"
 }
 ```
 
